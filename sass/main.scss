@@ -1,0 +1,23 @@
+@use 'sass:math';
+@use 'sass:color';
+
+@import "./fonts";
+@import "libs";
+@import "vars";
+@import "./res";
+
+	@import "./components/_header.scss";
+	@import "./components/hero";
+	@import "./components/clients";
+	@import "./components/work";
+	@import "./components/projects";
+
+
+
+	@import "./components/footer";
+	
+
+	
+
+
+

@@ -1,0 +1,23 @@
+.work {
+    padding: 50px;
+}
+
+.work_wrapper {
+    border-top: 2px solid  #65a5c0 ;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.work__list {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    padding: 5px;
+}
+
+.work__list__item {
+    text-decoration: underline  2px solid  #65a5c0 ;
+}

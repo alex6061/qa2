@@ -20,9 +20,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/1/qa2/img",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\1\qa2\img" />
+      <recent name="C:\Users\Lenovo\Desktop\1\qa2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673895282230</updated>
       <workItem from="1673895288927" duration="14000" />
+      <workItem from="1673895444209" duration="102000" />
     </task>
     <servers />
   </component>

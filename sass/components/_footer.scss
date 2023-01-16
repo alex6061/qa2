@@ -1,0 +1,47 @@
+footer {
+    padding: 50px;
+    background-color: #65a5c0;
+
+}
+
+.footer__nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer__nav__item--link {
+    color: #0b648a;
+    &:hover {
+        color: rgb(225, 225, 225);
+        transition: 250ms;
+    }
+    &:focus {
+        color: rgb(225, 225, 225);
+        transition: 250ms;
+        outline: none;
+    }
+    &:active {
+        color: rgb(225, 225, 225);
+        transition: 250ms;
+        outline: none;
+    }
+}
+
+.footer__contacts__item {
+    color: #0b648a;
+    &:hover {
+        color: white;
+        transition: 250ms;
+    }
+    &:focus {
+        color: white;
+        transition: 250ms;
+        outline: none;
+    }
+    &:active {
+        color: white;
+        transition: 250ms;
+        outline: none;
+    }
+}

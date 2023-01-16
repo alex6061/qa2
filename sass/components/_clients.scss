@@ -1,0 +1,27 @@
+.clients {
+    padding: 50px 0; 
+}
+
+.clients__wrapper {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 10px;
+}
+
+.clients__card {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border:2px solid #65a5c0;
+    border-radius: 10px;
+    padding: 10px;
+    &:hover {
+        background-color: #65a5c0;
+        transition: 250ms;
+    }
+}
+
+.clients__title {
+    margin: 0 auto;
+    font-size: 25px;
+}
